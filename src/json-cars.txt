@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1001,
+    "year": 1967,
+    "make": "Ford",
+    "model": "Mustang GT500",
+    "type": "Muscle Car",
+    "img": "https://example.com/images/ford_mustang_gt500.jpg",
+    "description": "The Ford Mustang GT500 is an iconic American muscle car, known for its aggressive styling and powerful performance. A true legend of the 1960s.",
+    "fuelConsumption": "14.0",
+    "engineSize": "7.0L V8",
+    "accessories": [
+      "Leather interior",
+      "AM/FM radio",
+      "Manual transmission"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Power steering",
+      "Front disc brakes"
+    ],
+    "rentalPrice": "$150",
+    "rentalCompany": "Classic Rides Rentals",
+    "address": "123 Main Street, Los Angeles, CA",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 45200
+  },
+  {
+    "id": 1002,
+    "year": 1970,
+    "make": "Chevrolet",
+    "model": "Chevelle SS 454",
+    "type": "Muscle Car",
+    "img": "https://example.com/images/chevrolet_chevelle_ss454.jpg",
+    "description": "The Chevrolet Chevelle SS 454 offers breathtaking performance with its big-block V8 engine, making it one of the most sought-after muscle cars of the 1970s.",
+    "fuelConsumption": "15.2",
+    "engineSize": "7.4L V8",
+    "accessories": [
+      "Bucket seats",
+      "Dual exhaust",
+      "Rally wheels"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Heavy-duty suspension",
+      "High-performance brakes"
+    ],
+    "rentalPrice": "$180",
+    "rentalCompany": "Classic Rides Rentals",
+    "address": "456 Elm Street, Miami, FL",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 31200
+  },
+  {
+    "id": 1003,
+    "year": 1969,
+    "make": "Dodge",
+    "model": "Charger R/T",
+    "type": "Muscle Car",
+    "img": "https://example.com/images/dodge_charger_rt.jpg",
+    "description": "The Dodge Charger R/T is a true icon of the muscle car era, featuring a bold design and thrilling performance with its powerful V8 engine.",
+    "fuelConsumption": "13.8",
+    "engineSize": "7.2L V8",
+    "accessories": [
+      "Woodgrain steering wheel",
+      "High-back bucket seats",
+      "Custom instrument panel"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Power brakes",
+      "High-output engine"
+    ],
+    "rentalPrice": "$160",
+    "rentalCompany": "Muscle Car Rentals",
+    "address": "789 Oak Street, Detroit, MI",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 28400
+  },
+  {
+    "id": 1004,
+    "year": 1965,
+    "make": "Chevrolet",
+    "model": "Corvette Sting Ray",
+    "type": "Sports Car",
+    "img": "https://example.com/images/chevrolet_corvette_stingray.jpg",
+    "description": "The Chevrolet Corvette Sting Ray blends timeless design with high-performance engineering, making it a standout sports car of the 1960s.",
+    "fuelConsumption": "12.5",
+    "engineSize": "5.4L V8",
+    "accessories": [
+      "Retractable headlights",
+      "AM/FM radio",
+      "Vinyl interior"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Independent rear suspension",
+      "Four-speed manual transmission"
+    ],
+    "rentalPrice": "$170",
+    "rentalCompany": "Vintage Sports Rentals",
+    "address": "567 Pine Street, San Francisco, CA",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 37500
+  },
+  {
+    "id": 1005,
+    "year": 1971,
+    "make": "Plymouth",
+    "model": "Barracuda",
+    "type": "Muscle Car",
+    "img": "https://example.com/images/plymouth_barracuda.jpg",
+    "description": "The Plymouth Barracuda offers a perfect blend of performance and style, making it a highly coveted muscle car of the 1970s.",
+    "fuelConsumption": "14.8",
+    "engineSize": "7.2L V8",
+    "accessories": [
+      "Pistol-grip shifter",
+      "Performance hood",
+      "Custom rally gauge cluster"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "TorqueFlite automatic transmission",
+      "Front disc brakes"
+    ],
+    "rentalPrice": "$165",
+    "rentalCompany": "Muscle Car Rentals",
+    "address": "321 Maple Street, Atlanta, GA",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 29800
+  },
+  {
+    "id": 1006,
+    "year": 1962,
+    "make": "Jaguar",
+    "model": "E-Type",
+    "type": "Luxury Sports Car",
+    "img": "https://example.com/images/jaguar_etype.jpg",
+    "description": "The Jaguar E-Type is a masterpiece of British engineering, offering elegance, speed, and sophistication, beloved by enthusiasts worldwide.",
+    "fuelConsumption": "12.0",
+    "engineSize": "3.8L Inline-6",
+    "accessories": [
+      "Wooden steering wheel",
+      "Leather seats",
+      "Wire wheels"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Independent suspension",
+      "Four-speed manual transmission"
+    ],
+    "rentalPrice": "$200",
+    "rentalCompany": "Prestige Classics",
+    "address": "678 Willow Lane, London, UK",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nSecurity deposit required",
+    "mileage": 21500
+  },
+  {
+    "id": 1007,
+    "year": 1970,
+    "make": "Pontiac",
+    "model": "GTO Judge",
+    "type": "Muscle Car",
+    "img": "https://example.com/images/pontiac_gto_judge.jpg",
+    "description": "The Pontiac GTO Judge is a high-performance version of the GTO, featuring unique styling cues and a powerful V8 engine that defined the muscle car era.",
+    "fuelConsumption": "14.5",
+    "engineSize": "7.0L V8",
+    "accessories": [
+      "Ram Air induction",
+      "Spoiler package",
+      "Hood-mounted tachometer"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Performance suspension",
+      "Dual exhaust"
+    ],
+    "rentalPrice": "$175",
+    "rentalCompany": "Muscle Legends",
+    "address": "910 Ash Street, Chicago, IL",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 34100
+  },
+  {
+    "id": 1008,
+    "year": 1966,
+    "make": "Shelby",
+    "model": "Cobra 427",
+    "type": "Sports Car",
+    "img": "https://example.com/images/shelby_cobra_427.jpg",
+    "description": "The Shelby Cobra 427 is a legendary roadster combining lightweight construction with raw V8 power, offering thrilling performance on road and track.",
+    "fuelConsumption": "10.0",
+    "engineSize": "7.0L V8",
+    "accessories": [
+      "Side exhaust pipes",
+      "Bucket seats",
+      "Roll bar"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Four-speed manual gearbox",
+      "Limited-slip differential"
+    ],
+    "rentalPrice": "$220",
+    "rentalCompany": "Classic Sports Rentals",
+    "address": "345 Birch Street, Dallas, TX",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nSecurity deposit required",
+    "mileage": 28900
+  },
+  {
+    "id": 1009,
+    "year": 1968,
+    "make": "Buick",
+    "model": "GS 400",
+    "type": "Luxury Muscle Car",
+    "img": "https://example.com/images/buick_gs_400.jpg",
+    "description": "The Buick GS 400 delivers a blend of luxury and performance, offering a refined ride with its powerful V8 engine and premium features.",
+    "fuelConsumption": "13.0",
+    "engineSize": "6.6L V8",
+    "accessories": [
+      "Air conditioning",
+      "Power windows",
+      "Tilt steering column"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Performance suspension",
+      "High-performance tires"
+    ],
+    "rentalPrice": "$180",
+    "rentalCompany": "Luxury Classics",
+    "address": "678 Cedar Street, Seattle, WA",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 30200
+  },
+  {
+    "id": 1010,
+    "year": 1964,
+    "make": "Rolls-Royce",
+    "model": "Silver Cloud III",
+    "type": "Luxury Sedan",
+    "img": "https://example.com/images/rolls_royce_silver_cloud_iii.jpg",
+    "description": "The Rolls-Royce Silver Cloud III represents British luxury at its finest, featuring unparalleled craftsmanship and a smooth, quiet ride.",
+    "fuelConsumption": "16.0",
+    "engineSize": "6.2L V8",
+    "accessories": [
+      "Walnut wood trim",
+      "Connolly leather interior",
+      "Power steering"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Hydraulic self-leveling suspension",
+      "Automatic transmission"
+    ],
+    "rentalPrice": "$250",
+    "rentalCompany": "Prestige Classics",
+    "address": "123 Royal Avenue, London, UK",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nSecurity deposit required",
+    "mileage": 21000
+  },
+  {
+    "id": 1011,
+    "year": 1972,
+    "make": "Mercedes-Benz",
+    "model": "280 SE 4.5",
+    "type": "Luxury Sedan",
+    "img": "https://example.com/images/mercedes_benz_280se_45.jpg",
+    "description": "The Mercedes-Benz 280 SE 4.5 is a luxurious sedan combining timeless design, smooth performance, and advanced German engineering.",
+    "fuelConsumption": "14.0",
+    "engineSize": "4.5L V8",
+    "accessories": [
+      "Automatic climate control",
+      "Power windows",
+      "Sunroof"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Four-wheel disc brakes",
+      "Hydraulic suspension"
+    ],
+    "rentalPrice": "$210",
+    "rentalCompany": "Luxury Drives",
+    "address": "901 Elm Avenue, Berlin, Germany",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nSecurity deposit required",
+    "mileage": 25500
+  },
+  {
+    "id": 1012,
+    "year": 1969,
+    "make": "AMC",
+    "model": "AMX",
+    "type": "Muscle Car",
+    "img": "https://example.com/images/amc_amx.jpg",
+    "description": "The AMC AMX is a compact yet powerful muscle car, known for its bold styling and exceptional performance in a lightweight package.",
+    "fuelConsumption": "12.5",
+    "engineSize": "6.4L V8",
+    "accessories": [
+      "Rally gauges",
+      "Hurst shifter",
+      "Vinyl bucket seats"
+    ],
+    "functionalities": [
+      "Rear-Wheel Drive",
+      "Dual exhaust",
+      "Heavy-duty suspension"
+    ],
+    "rentalPrice": "$170",
+    "rentalCompany": "Muscle Legends",
+    "address": "543 Maple Drive, Phoenix, AZ",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 29100
+  }
+]
